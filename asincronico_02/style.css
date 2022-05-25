@@ -1,0 +1,31 @@
+body {
+    font-size: 40px;
+    font-family: 'Akshar', sans-serif;
+    background-image: url(./img/fondo.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+img {
+    width: 30%;
+    margin: 1.4%;
+    margin-left: 1%;
+}
+
+h1 {
+    text-transform: uppercase;
+    border-bottom: 2px solid red;
+    width: 31%;
+    padding-bottom: 2%;
+    color: #7D3C98;
+}
+
+h3 {
+    text-align: center;
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(72,160,19,1) 0%, rgba(21,176,176,0.9700922605370274) 22%, rgba(157,0,255,1) 100%);
+}
